@@ -47,13 +47,13 @@ public class Main {
             }
             private static void task4() {
                 System.out.println("Задание 4");
-                int deliveryDistance = 20; // Код написан в зависимости от критериев оценки
+                int deliveryDistance = 95; // Код написан в зависимости от критериев оценки
                 int days = (deliveryDistance + 59) / 40;
                 System.out.println("Потребуется дней:" + days);
             }
             private static void task5() {
                 System.out.println("Задание 5");
-                int monthNumber = 13;
+                int monthNumber = 12;
                 switch (monthNumber) {
                     case 12:
                     case 1:
